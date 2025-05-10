@@ -1,0 +1,39 @@
+﻿@model List<probando.Models.domain.Producto>
+
+@{
+    ViewData["Title"] = "Lista de Productos";
+}
+
+<h2>Lista de Productos</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Agregar Nuevo Producto</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Código de Barra</th>
+            <th>Precio</th>
+            <th>Cantidad</th>
+            <th>Disponible</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.CodigoDeBarra</td>
+                <td>$@item.Precio</td>
+                <td>@item.CantidadDisponible</td>
+                <td>@(item.Estado ? "Sí" : "No")</td>
+                <td>
+                    <a asp-action="Details" asp-route-codigo="@item.CodigoDeBarra" class="btn btn-info btn-sm">Ver detalles</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

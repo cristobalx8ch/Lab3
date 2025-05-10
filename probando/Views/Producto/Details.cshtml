@@ -1,0 +1,28 @@
+﻿@model probando.Models.domain.Producto
+
+@{
+    ViewData["Title"] = "Detalle del Producto";
+}
+
+<h2>Detalle del Producto</h2>
+
+<div class="card p-3">
+    <dl class="row">
+        <dt class="col-sm-3">Nombre</dt>
+        <dd class="col-sm-9">@Model.Nombre</dd>
+
+        <dt class="col-sm-3">Código de Barra</dt>
+        <dd class="col-sm-9">@Model.CodigoDeBarra</dd>
+
+        <dt class="col-sm-3">Precio</dt>
+        <dd class="col-sm-9">$@Model.Precio</dd>
+
+        <dt class="col-sm-3">Cantidad Disponible</dt>
+        <dd class="col-sm-9">@Model.CantidadDisponible</dd>
+
+        <dt class="col-sm-3">Disponible</dt>
+        <dd class="col-sm-9">@(Model.Estado ? "Sí" : "No")</dd>
+    </dl>
+</div>
+
+<a asp-action="Index" class="btn btn-primary">Volver a la lista</a>
