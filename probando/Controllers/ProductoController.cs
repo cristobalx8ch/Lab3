@@ -58,6 +58,67 @@ namespace probando.Controllers
             // si no  se encuentra ningun producto con este codigo  retorna un error
             return NotFound();
         }
+
+        public IActionResult Edit(string codigo)
+        {
+            foreach (var p in productos)
+            {
+                if (p.CodigoDeBarra == codigo)
+                {
+                    return View(p);
+                }
+            }
+            return NotFound();
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Producto p)
+        {
+            for (int i = 0; i < productos.Count; i++)
+            {
+                if (productos[i].CodigoDeBarra == p.CodigoDeBarra)
+                {
+                    if (ModelState.IsValid)
+                    {
+                        productos[i].Nombre = p.Nombre;
+                        productos[i].Precio = p.Precio;
+                        productos[i].CantidadDisponible = p.CantidadDisponible;
+                        productos[i].Estado = p.Estado;
+
+                        return RedirectToAction("Index");
+                    }
+                    return View(p);
+                }
+            }
+            return NotFound();
+        }
+
+        public IActionResult Delete(string codigo)
+        {
+            foreach (var p in productos)
+            {
+                if (p.CodigoDeBarra == codigo)
+                {
+                    return View(p);
+                }
+            }
+            return NotFound();
+        }
+
+
+        [HttpPost]
+        public IActionResult DeleteConfirmed(string codigo)
+        {
+            for (int i = 0; i < productos.Count; i++)
+            {
+                if (productos[i].CodigoDeBarra == codigo)
+                {
+                    productos.RemoveAt(i);
+                    break;
+                }
+            }
+            return RedirectToAction("Index");
+        }
     }
 }
 

@@ -3,8 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\cristobalO.O\\Desktop\\probando\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\Laboratorio3.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\Laboratorio3.csproj|solutionrelative:probando\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\views\\producto\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\views\\producto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\views\\producto\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\models\\domain\\productoperecible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\models\\domain\\productoperecible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\models\\domain\\envasado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\models\\domain\\envasado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\models\\domain\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\models\\domain\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|c:\\users\\cristobalo.o\\desktop\\probando\\probando\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B9EDD4-7E96-4D37-9F04-334DB3DCFF32}|probando\\probando.csproj|solutionrelative:probando\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +66,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Producto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "probando\\Views\\Producto\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Producto\\Edit.cshtml",
+              "RelativeToolTip": "probando\\Views\\Producto\\Edit.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:40:56.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Producto\\Delete.cshtml",
+              "RelativeDocumentMoniker": "probando\\Views\\Producto\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Producto\\Delete.cshtml",
+              "RelativeToolTip": "probando\\Views\\Producto\\Delete.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-12T20:40:10.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductoPerecible.cs",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Models\\domain\\ProductoPerecible.cs",
+              "RelativeDocumentMoniker": "probando\\Models\\domain\\ProductoPerecible.cs",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Models\\domain\\ProductoPerecible.cs",
+              "RelativeToolTip": "probando\\Models\\domain\\ProductoPerecible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:45:12.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "probando\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "probando\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T22:42:36.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Envasado.cs",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Models\\domain\\Envasado.cs",
+              "RelativeDocumentMoniker": "probando\\Models\\domain\\Envasado.cs",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Models\\domain\\Envasado.cs",
+              "RelativeToolTip": "probando\\Models\\domain\\Envasado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:42:31.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Models\\domain\\Producto.cs",
+              "RelativeDocumentMoniker": "probando\\Models\\domain\\Producto.cs",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Models\\domain\\Producto.cs",
+              "RelativeToolTip": "probando\\Models\\domain\\Producto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:38:46.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Producto\\Details.cshtml",
+              "RelativeDocumentMoniker": "probando\\Views\\Producto\\Details.cshtml",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Producto\\Details.cshtml",
+              "RelativeToolTip": "probando\\Views\\Producto\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T22:26:08.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "probando\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "probando\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T22:25:46.41Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,10 +177,70 @@
               "RelativeDocumentMoniker": "probando\\Controllers\\ProductoController.cs",
               "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Controllers\\ProductoController.cs",
               "RelativeToolTip": "probando\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAwHIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-10T23:42:41.133Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "probando\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "probando\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T22:45:16.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "probando\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "probando\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T22:25:32.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Program.cs",
+              "RelativeDocumentMoniker": "probando\\Program.cs",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Program.cs",
+              "RelativeToolTip": "probando\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:36:58.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "probando\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "probando\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T22:24:37.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "probando\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\probando\\probando\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "probando\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T22:23:01.976Z"
             }
           ]
         }
