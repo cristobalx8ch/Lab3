@@ -58,7 +58,8 @@ namespace probando.Controllers
             // si no  se encuentra ningun producto con este codigo  retorna un error
             return NotFound();
         }
-
+        
+        //muestra  el formulario  para editar un producto
         public IActionResult Edit(string codigo)
         {
             foreach (var p in productos)
@@ -68,9 +69,11 @@ namespace probando.Controllers
                     return View(p);
                 }
             }
+            //si no lo encuentra  muestra un error
             return NotFound();
         }
 
+        ////accion que recibe los datos editados del producto 
         [HttpPost]
         public IActionResult Edit(Producto p)
         {
@@ -80,6 +83,7 @@ namespace probando.Controllers
                 {
                     if (ModelState.IsValid)
                     {
+                        //actualiza los datos del producto 
                         productos[i].Nombre = p.Nombre;
                         productos[i].Precio = p.Precio;
                         productos[i].CantidadDisponible = p.CantidadDisponible;
@@ -87,12 +91,14 @@ namespace probando.Controllers
 
                         return RedirectToAction("Index");
                     }
+                    //si hay error vuelve al formulario 
                     return View(p);
                 }
             }
             return NotFound();
         }
 
+        //muestra el producto que se quiere eliminar
         public IActionResult Delete(string codigo)
         {
             foreach (var p in productos)
@@ -105,7 +111,7 @@ namespace probando.Controllers
             return NotFound();
         }
 
-
+        //elimina el producto de la  lista 
         [HttpPost]
         public IActionResult DeleteConfirmed(string codigo)
         {
